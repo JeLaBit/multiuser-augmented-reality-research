@@ -87,13 +87,13 @@ display: block;
 .hero-overlay {
 position: absolute;
 top: 50%;
-left: 50%;
+left: 100%;
 transform: translate(-50%, -50%);
 color: white;
 text-shadow: 0 2px 6px rgba(0,0,0,0.6);
 background: rgba(0,0,0,0.3); /* halbtransparentes Overlay für Lesbarkeit */
 padding: 1rem 2rem;
-border-radius: 12px;
+border-radius: 0px;
 }
 .hero-overlay h1 {
 margin: 0 0 0.5rem 0;
