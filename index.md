@@ -2,7 +2,7 @@
 layout: default
 title: Multi-User Augmented Reality Research
 permalink: /
-hero_text: "Kurze Zusammenfassung deines Research-Projekts"
+hero_text: "By Jessica L. Bitter"
 ---
 
 
