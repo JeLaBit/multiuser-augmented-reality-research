@@ -17,5 +17,5 @@ Year: 2024
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
 </iframe>
-<p>This prototype has two parts. First, it aims at guiding a group of people from exhibit to exhibit in an exhibition. Second, two people can label physical bones in the museum together. This video was filmed at the Landesmuseum in Darmstadt, Germany. Credits to Noura Kräuter and Ulrike Spierling for participating and agreeing to being filmed. https://youtu.be/</p>
+<p>This prototype has two parts. First, it aims at guiding a group of people from exhibit to exhibit in an exhibition. Second, two people can label physical bones in the museum together. This video was filmed at the Landesmuseum in Darmstadt, Germany. Credits to Noura Kräuter and Ulrike Spierling for participating and agreeing to being filmed.</p>
 </div>
