@@ -5,8 +5,8 @@ permalink: /prototypes/
 hero_text: ""
 ---
 
-# Colouring the Parasaurolophus Version 1
-tba
+# Colouring the Parasaurolophus Version 2
+<p>tba</p>
 
 # Colouring the Parasaurolophus Version 1
 <div class="video-grid">
