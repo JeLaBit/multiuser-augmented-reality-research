@@ -70,3 +70,22 @@ footer a {
 color: var(--footer-text);
 text-decoration: underline;
 }
+
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  background-color: #e5e7eb; /* optionales Hintergrundband */
+}
+.hero-img {
+  max-width: 100%;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+.hero-text h1 {
+  margin: 0.5rem 0;
+  font-size: 2rem;
+}
+.lead {
+  color: #6b7280;
+  font-size: 1.1rem;
+}
