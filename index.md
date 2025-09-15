@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Startseite
+title: Multi-User Augmented Reality Research
 permalink: /
 hero_text: "Kurze Zusammenfassung deines Research-Projekts"
 ---
