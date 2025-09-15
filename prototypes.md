@@ -2,7 +2,7 @@
 layout: default
 title: Prototypes
 permalink: /prototypes/
-hero-text: ""
+hero_text: ""
 ---
 
 
