@@ -1,1 +1,9 @@
-
+{% if page.url == "/" %}
+<section class="hero">
+  <img src="{{ site.baseurl }}/assets/hero.jpg" alt="Hero Image" class="hero-img">
+  <div class="hero-text">
+    <h1>Willkommen zu meinem Research-Projekt</h1>
+    <p class="lead">Kurze Zusammenfassung deines Projekts.</p>
+  </div>
+</section>
+{% endif %}
