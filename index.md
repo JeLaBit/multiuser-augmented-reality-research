@@ -3,5 +3,11 @@ layout: default
 title: Startseite
 ---
 
-# Willkommen
-Dies ist meine Forschungsseite mit GitHub Pages und Jekyll.
+
+# Willkommen zu meinem Research-Projekt
+
+
+![Hero Image](/assets/hero.jpg)
+
+
+Dies ist eine Kurzzusammenfassung deiner Forschung. Beschreibe hier in wenigen Sätzen, worum es geht.
