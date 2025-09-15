@@ -6,7 +6,7 @@ hero_text: ""
 ---
 
 
-# Publications related to my PhD
+# Publications related to Multi-User Augmented Reality
 - **Titel 1** – Journal / Konferenz, Jahr
 - **Titel 2** – Journal / Konferenz, Jahr
 - **Titel 3** – Journal / Konferenz, Jahr
