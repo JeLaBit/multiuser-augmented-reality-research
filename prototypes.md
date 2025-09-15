@@ -19,6 +19,7 @@ hero_text: ""
 </iframe>
 <p>This prototype has two parts. First, it aims at guiding a group of people from exhibit to exhibit in an exhibition. Second, two people can label physical bones in the museum together. This video was filmed at the Landesmuseum in Darmstadt, Germany. Credits to Noura Kräuter and Ulrike Spierling for participating and agreeing to being filmed. <br>
 Year: 2024</p>
+</div>
 
 # Labelling Game with virtual Skeleton
 <div class="video-grid">
@@ -31,6 +32,7 @@ Year: 2024</p>
 </iframe>
 <p>This prototype has two parts. First, it aims at guiding a group of people from exhibit to exhibit in an exhibition. Second, two people can label physical bones in the museum together. This video was filmed at the Landesmuseum in Darmstadt, Germany. Credits to Noura Kräuter and Ulrike Spierling for participating and agreeing to being filmed. <br>
 Year: 2024</p>
+</div>
 
 # Labelling Game on Smartphone
 <div class="video-grid">
@@ -43,6 +45,7 @@ Year: 2024</p>
 </iframe>
 <p>This prototype has two parts. First, it aims at guiding a group of people from exhibit to exhibit in an exhibition. Second, two people can label physical bones in the museum together. This video was filmed at the Landesmuseum in Darmstadt, Germany. Credits to Noura Kräuter and Ulrike Spierling for participating and agreeing to being filmed. <br>
 Year: 2024</p>
+</div>
 
 # Guiding and Labelling Game 
 <div class="video-grid">
@@ -55,7 +58,7 @@ Year: 2024</p>
 </iframe>
 <p>This prototype has two parts. First, it aims at guiding a group of people from exhibit to exhibit in an exhibition. Second, two people can label physical bones in the museum together. This video was filmed at the Landesmuseum in Darmstadt, Germany. Credits to Noura Kräuter and Ulrike Spierling for participating and agreeing to being filmed. <br>
 Year: 2024</p>
-
+</div>
 </div>
 
 # Labelling Game with Mannequin
@@ -69,4 +72,5 @@ Year: 2024</p>
 </iframe>
 <p>This prototype has two parts. First, it aims at guiding a group of people from exhibit to exhibit in an exhibition. Second, two people can label physical bones in the museum together. This video was filmed at the Landesmuseum in Darmstadt, Germany. Credits to Noura Kräuter and Ulrike Spierling for participating and agreeing to being filmed. <br>
 Year: 2024</p>
+</div>
 
