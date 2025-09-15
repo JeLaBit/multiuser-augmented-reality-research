@@ -72,20 +72,41 @@ text-decoration: underline;
 }
 
 .hero {
-  text-align: center;
-  padding: 3rem 1rem;
-  background-color: #e5e7eb; /* optionales Hintergrundband */
+position: relative;
+text-align: center;
+overflow: hidden;
+height: 60vh; /* Höhe anpassen, ca. 600px auf Desktop */
+min-height: 300px;
 }
 .hero-img {
-  max-width: 100%;
-  border-radius: 12px;
-  margin-bottom: 1rem;
+width: 100%;
+height: 100%;
+object-fit: cover;
+display: block;
 }
-.hero-text h1 {
-  margin: 0.5rem 0;
-  font-size: 2rem;
+.hero-overlay {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: white;
+text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+background: rgba(0,0,0,0.3); /* halbtransparentes Overlay für Lesbarkeit */
+padding: 1rem 2rem;
+border-radius: 12px;
 }
-.lead {
-  color: #6b7280;
-  font-size: 1.1rem;
+.hero-overlay h1 {
+margin: 0 0 0.5rem 0;
+font-size: 2.5rem;
+}
+.hero-overlay .lead {
+font-size: 1.2rem;
+}
+@media (max-width: 768px) {
+.hero-overlay h1 {
+font-size: 1.8rem;
+}
+.hero-overlay .lead {
+font-size: 1rem;
+}
 }
